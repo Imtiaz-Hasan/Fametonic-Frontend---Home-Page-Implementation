@@ -1,5 +1,8 @@
 # Fametonic Frontend – Home Page Implementation
 
+## 🚀 Live Demo
+[https://fametonic-frontend-home-page-implem-gamma.vercel.app/](https://fametonic-frontend-home-page-implem-gamma.vercel.app/)
+
 This project is a custom homepage implementation for **Fametonic**, built with [Next.js](https://nextjs.org) and styled using [Tailwind CSS](https://tailwindcss.com). It features a modern, responsive design with custom theming and assets.
 
 ## Features
