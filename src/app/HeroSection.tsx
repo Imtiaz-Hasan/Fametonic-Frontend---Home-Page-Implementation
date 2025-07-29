@@ -50,7 +50,7 @@ export default function HeroSection() {
         </a>
         {/* Mobile-specific terms and conditions text */}
         <div className="md:hidden text-xs text-fametonicText opacity-60 text-center mb-10 absolute bottom-16 w-full">
-          By clicking "Get Started", you agree with Terms and Conditions,
+          By clicking {`"Get Started"`}, you agree with Terms and Conditions,
           Privacy Policy, Subscription Terms
           <br />
           <br />
@@ -62,7 +62,7 @@ export default function HeroSection() {
       </div>
       {/* Desktop version Terms and Conditions */}
       <div className="hidden mt-6 text-xs text-fametonicText opacity-60 max-w-xs text-center md:text-left md:block">
-        By clicking "Get Started", you agree with Terms and Conditions,
+        By clicking {`"Get Started"`}, you agree with Terms and Conditions,
         Privacy Policy, Subscription Terms
         <br />
         <br />
